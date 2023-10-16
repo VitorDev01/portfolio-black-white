@@ -162,7 +162,7 @@ header .nav-bar{
 
 .swiper-slide .text-content{
   position: absolute;
-  top: 540px;
+  top: 520px;
   color: var(--white-color);
   margin: 0 200px;
   transition: 0.3s ease;
